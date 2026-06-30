@@ -1,14 +1,14 @@
-# EoSD
-For my EoSD game bot - This may only work for Windows
+# SillyTavern Game Engine
+A SillyTavern extension that hosts modular, UI-driven minigames in a pop-out window, feeding the results seamlessly to the LLM for roleplay.
 
-Download all 4 parts of the .rar into the same location and open them.
+## How to Install
+1. Open SillyTavern.
+2. Go to the Extensions menu (the Blocks icon).
+3. Click **Install Extension**.
+4. Paste this repository link: `https://github.com/NickChegg/EoSD`
+5. Restart SillyTavern.
 
-Go to your SillyTavern Directory, and go to SillyTavern>public>scripts>extensions>third-party
-
-Extract the folder within the .rar into the third-party folder
-
-Open or Restart SillyTavern, and open the extensions tab. There will be a new section labelled Game engine. Expand it, and type into the add box "eosd" (Minus the quoation marks) then click add
-
-Select eosd from the dropdown directly above, and click open. 
-
-If eveything works, then you should now be roleplaying the plot of EoSD alongside your chosen heroine. Remember to open the Embodiment of Scarlet Devil Game Card, and that you've downloaded the attached Lorebook and linked it to the card before starting. 
+## How to Play
+1. In the Extensions menu, open the **Game Engine** settings block.
+2. Type `eosd` into the "New game folder..." box and click **Add**.
+3. Select `eosd` from the dropdown and click **Open**.
